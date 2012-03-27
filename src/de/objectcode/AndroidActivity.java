@@ -14,7 +14,7 @@ public class AndroidActivity extends ListActivity {
     "KeyTest", "AccelerometerTest", "AssetsTest",
     "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest",
     "FullScreenTest", "WakeLockTest", "RenderViewTest", "ShapeTest", "BitmapTest",
-    "FontTest", "SurfaceViewTest"
+    "FontTest", "SurfaceViewTest", "HorizontalLine"
   };
 
   public void onCreate(Bundle savedInstanceState) {

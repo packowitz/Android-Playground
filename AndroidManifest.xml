@@ -70,7 +70,11 @@
 		<activity android:label="SurfaceView Test" 
 		          android:name=".SurfaceViewTest"
 		          android:screenOrientation="portrait"
-			      android:configChanges="keyboard|keyboardHidden|orientation" />				      				      		      
+			      android:configChanges="keyboard|keyboardHidden|orientation" />
+		<activity android:label="HorizontalLine" 
+		          android:name=".HorizontalLine"
+		          android:screenOrientation="landscape"
+			      android:configChanges="keyboard|keyboardHidden|orientation" />
 			      			      			     
 	</application>
 
